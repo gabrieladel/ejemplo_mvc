@@ -19,7 +19,7 @@ if ((isset($_POST['nombre'])) && ($_POST['nombre'] != '') && (isset($_POST['prec
     <body>
         <div class="container">
             <header class="text-center">
-                <h1>Ejemp MVC con PHP</h1>
+                <h1>Ejemplo MVC con PHP</h1>
                 <hr/>
                 <p class="lead">Creamos una base de datos de los servicios <br/>
                     que podría realizar un taller y <br/>
