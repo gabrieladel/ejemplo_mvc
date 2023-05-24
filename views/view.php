@@ -40,7 +40,7 @@
                 <hr/>
             </div> 
             <footer class="col-lg-12 text-center">
-                Gabriela - <?php echo date("Y"); ?>
+                 <?php echo date("Y"); ?>
             </footer>
         </div>
     </body>

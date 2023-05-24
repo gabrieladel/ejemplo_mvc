@@ -44,7 +44,7 @@ if ((isset($_POST['nombre'])) && ($_POST['nombre'] != '') && (isset($_POST['prec
                 </div> 
             </div>
             <footer class="col-lg-12 text-center">
-                Gabriela - <?php echo date("Y"); ?>
+                 <?php echo date("Y"); ?>
             </footer>
         </div>
     </body>
